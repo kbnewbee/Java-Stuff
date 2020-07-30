@@ -1,0 +1,5 @@
+
+dn: ou=Accounting,dc=willeke, dc=com
+ou: Accounting
+objectClass: top
+objectClass: organizationalUnit
